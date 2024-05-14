@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/BDStreamHub.m3u",
+      "destination": "https://t.me/tataplayonline",
+      "statusCode": 307
+    }
+  ]
+}
